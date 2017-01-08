@@ -4,6 +4,10 @@ This repository contains code for a project I did as a part of [Udacity's Self D
 # Exploring the Dataset
 I used the dataset provided by Udacity. About 8000 images. I did not record images myself.
 
+The dataset contains JPG images of dimensions 160x320x3. Here are some sample images from the dataset.
+
+![Sample Images](assets/sample_images.png)
+
 ## Unbalanced Data
 Most of the steering angles are close to zero, on the negative side. There is a bias towards driving straight and turning left.
 ![Unbalanced data](assets/unbalanced_data.png)
