@@ -67,7 +67,7 @@ Data is augmented and generated on the fly using python generators. So for every
 
 ## Evaluation Video
 
-Click on the image to watch the video or [click here](https://youtu.be/kElUwEoZ7P0).
+Click on the image to watch the video or [click here](https://youtu.be/kElUwEoZ7P0). You will be redirected to YouTube.
 
 [![Demo Video](https://img.youtube.com/vi/kElUwEoZ7P0/0.jpg)](https://youtu.be/kElUwEoZ7P0)
 
