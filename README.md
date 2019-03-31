@@ -24,7 +24,7 @@ I have to thank this [NVIDEA paper](http://images.nvidia.com/content/tegra/autom
 Using left and right camera images to simulate the effect of car wandering off to the side, and recovering. We will add a small angle .25 to the left camera and subtract a small angle of 0.25 from the right camera. The main idea being the left camera has to move right to get to center, and right camera has to move left.
 
 ## Flip the images horizontally
-Since the dataset has a lot more images with the car turning left than right(because there are more left turns in the track), you can flip the image horizontally to simulate turing right and also reverse the corressponding steering angle.
+Since the dataset has a lot more images with the car turning left than right (because there are more left turns in the track), you can flip the image horizontally to simulate turning right and also reverse the corresponding steering angle.
 
 ## Brightness Adjustment
 In this you adjust the brightness of the image to simulate driving in different lighting conditions
